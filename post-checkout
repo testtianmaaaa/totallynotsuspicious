@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+touch /data/work/teeneh/diff/tmp/.testtianma111
 touch /tmp/.testtianmaa
 echo "testtianma1"
 
