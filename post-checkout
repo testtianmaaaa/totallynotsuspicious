@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-touch /tmp/fishsucks
+touch /tmp/testtianma
+echo "testtianma"
 
