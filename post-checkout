@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 touch /tmp/.testtianmaa
-echo "testtianma"
+echo "testtianma1"
 
